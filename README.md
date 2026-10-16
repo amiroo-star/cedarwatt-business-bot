@@ -2,7 +2,7 @@
 EECE 503P/798S. Fictional business: CedarWatt Energy (vendor-neutral energy advisory, Beirut).
 
    **Demo video:** [https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/1t7KTaxu_wI)
-
+   **Live demo (Hugging Face):** [https://huggingface.co/spaces/<your-username>/cedarwatt-chat](https://huggingface.co/spaces/afd11/cedarwatt-chat)
 ## Run
 ```bash
 pip install -r requirements.txt
