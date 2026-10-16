@@ -1,0 +1,16 @@
+CedarWatt Energy (fictional company, created for the EECE 503P/798S assignments)
+
+CedarWatt Energy is a Beirut-based energy advisory startup founded in 2024. Our mission is to make reliable, clean electricity affordable for Lebanese homes and small businesses by replacing guesswork with transparent, kWh-based engineering. We are vendor-neutral: we do not sell or install panels, inverters or batteries, so our advice is never tied to a product margin.
+
+Services and prices (USD):
+1. Free Energy Check - a 20-minute call to understand your consumption and goals. Free.
+2. Home Energy Audit - a remote bill and appliance review with a written savings plan. Flat fee of $150.
+3. Rooftop Solar Design Package - system sizing, panel layout, inverter and battery recommendation, and a bill of materials, delivered as a design report within 5 business days. Flat fee of $600 for homes. Small-business designs are quoted individually.
+4. Hybrid Inverter and Battery Sizing Review - an independent second opinion on an installer's proposal. Flat fee of $200.
+5. WattWatch - our monitoring dashboard and API that tracks production and consumption. Subscription of $12 per month per site.
+
+Team: Dr. Rana Haddad (co-founder and CEO, PhD in power systems) leads audits and design reviews. Karim Saab (co-founder and CTO, embedded-systems engineer) leads WattWatch and the sizing tools.
+
+Unique value proposition: independent, vendor-neutral design with every number explained and a design report guaranteed within 5 business days.
+
+Practical details: we serve all Lebanese regions remotely and can arrange site visits in Beirut and Mount Lebanon on request. Support hours are Monday to Friday, 9:00 to 17:00 Beirut time. Contact: hello@cedarwatt.example. We can refer customers to certified installers, but we do not guarantee installer prices or schedules. We do not currently offer financing, loans or subsidy applications.

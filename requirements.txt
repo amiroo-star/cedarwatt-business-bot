@@ -1,0 +1,5 @@
+openai>=1.50
+gradio>=6.0
+pypdf>=4.0
+python-dotenv>=1.0
+reportlab>=4.0
