@@ -1,8 +1,13 @@
 # business_bot - C3 Agent-Powered Business Assistant (CedarWatt Energy)
 EECE 503P/798S. Fictional business: CedarWatt Energy (vendor-neutral energy advisory, Beirut).
 
-   **Demo video:** [https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/1t7KTaxu_wI)
-   **Live demo (Hugging Face):** [https://huggingface.co/spaces/<your-username>/cedarwatt-chat](https://huggingface.co/spaces/afd11/cedarwatt-chat)
+**Demo video:** https://youtu.be/1t7KTaxu_wI  
+**Live demo (Hugging Face):** https://huggingface.co/spaces/afd11/cedarwatt-chat
+
+### Deployed app logs (Hugging Face Space)
+Router → tool call → reflection, running live on the Space:
+
+<img width="1600" height="223" alt="hf_space_logs" src="https://github.com/user-attachments/assets/e1a58e76-0250-4972-b09c-47a740caae7a" />
 ## Run
 ```bash
 pip install -r requirements.txt
