@@ -1,6 +1,8 @@
 # business_bot - C3 Agent-Powered Business Assistant (CedarWatt Energy)
 EECE 503P/798S. Fictional business: CedarWatt Energy (vendor-neutral energy advisory, Beirut).
 
+   **Demo video:** [https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/1t7KTaxu_wI)
+
 ## Run
 ```bash
 pip install -r requirements.txt
